@@ -1,5 +1,6 @@
 # psicologiaydatos
 ES/EN
+
 ----ES----
 Hola, mi nombre es Luis Nochetti soy estudiante de psicología en UDELAR (Universidad de la República en Uruguay), tengo un perfil orientado en análisis de datos relacionados a la psicología. Pienso usar esta carpeta main para ir guardando y mostrando mis avances en este area. El propósito de este "proyecto" no es enseñar (aunque si te sirve algo usalo tranquilamente), si lees con detenimiento te darás cuenta que tendré muchos errores !tu ayuda siempre será aceptada!
 
