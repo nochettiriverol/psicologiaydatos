@@ -1,2 +1,0 @@
-# psicologiaydatos
-ES 
